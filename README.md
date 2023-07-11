@@ -3,7 +3,7 @@
 ## Basics of GIT
 
 ### Create Repo
-- 'git init'
+- `git init´
 
 ### Add changes
 - 'git add .'
