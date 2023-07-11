@@ -3,10 +3,10 @@
 ## Basics of GIT
 
 ### Create Repo
-- `git init´
+- ´git init´
 
 ### Add changes
-- 'git add .'
+- ´git add .´
 - 'git commit -m "Init Commit"'
 
 ### create new Branch
